@@ -41,7 +41,7 @@ a:hover{
     padding: .5rem;
     text-decoration: none;
 }
-/* aqui esta a versão para mobile*/
+/*------------------- aqui esta a versão para mobile*/
 @media (max-width: 600px){
    
     #menu{
@@ -158,7 +158,7 @@ a:hover{
  
 /*--------------------------- conteúdo da pg Sobre*/
 .containerSobre{
-    width: 380px;
+    width: 360px;
     height: 356px;
     background-color: rgba(255, 255, 255, 0.178);
     margin: auto;
